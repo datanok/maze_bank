@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+body{
+  background: -webkit-linear-gradient(320deg, rgb(22, 22, 22) 0%, rgb(31, 31, 31) 100%);
+background: -o-linear-gradient(320deg, rgb(22, 22, 22) 0%, rgb(31, 31, 31) 100%);
+background: -ms-linear-gradient(320deg, rgb(22, 22, 22) 0%, rgb(31, 31, 31) 100%);
+background: -moz-linear-gradient(320deg, rgb(22, 22, 22) 0%, rgb(31, 31, 31) 100%);
+background: linear-gradient(130deg, rgb(22, 22, 22) 0%, rgb(31, 31, 31) 100%);
+font-family: 'PT Sans', sans-serif;
+
+  color: #CCD6F6;
+}
+
+.navbar-nav ,.nav-link ,.footer-link{
+  color: white;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+.navbar-brand,h1{
+  color: #5EF1D0;
+}
+a:hover{
+  color: #5EF1D0;
+}
+.warp{
+
+  height: 80vh;
+}
+.navbar-toggler:focus{
+  box-shadow: none;
+}
+tbody{
+  color: #CCD6F6;
+}
+td{
+  text-align: center;
+}
+th{
+  color: #5EF1D0;
+}
+.u-row:hover{
+  color: #5EF1D0 !important;
+
+}
+.table-responsive-sm{
+  width: 80%;
+  margin: auto;
+}
+.transfer{
+
+  color: #5EF1D0;
+  background-color: #1A1A1A;
+  border-color: #5EF1D0;
+}
+.transfer:hover{
+  color: black;
+  background-color: white;
+}
+.creds{
+  color:  #5EF1D0;
+  text-decoration: none;
+}
