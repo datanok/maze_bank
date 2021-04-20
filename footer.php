@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6 text-center text-md-start">
-          <p>Developed By <a href="#" class="creds">Tanmay Patil.</a></p>
+          <p>Developed By <a href="https://github.com/datanok" class="creds">Tanmay Patil.</a></p>
         </div>
         <div class="col-md-6 text-center text-md-end mb-4">
 
